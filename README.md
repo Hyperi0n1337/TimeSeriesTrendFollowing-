@@ -1,8 +1,11 @@
 # Time Series Trend Following 
 
 •	Algorithmic trading strategy using moving averages crossover to capture momentum factor (potential source of alpha)
+
 •	Mitigated idiosyncratic risk by diversifying time periods in line with profitable managed futures strategies
+
 •	Leveraged trend strength, MA crossovers, and candle patterns for entry/exit, adjusting positions during consolidations
+
 •	A powerful portfolio diversification tool with near-zero correlation to the stock market and positive expected return
 
 
