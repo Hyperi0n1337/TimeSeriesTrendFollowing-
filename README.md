@@ -11,7 +11,7 @@
 
 # Summary
 
-This MQL4 code is for a trading strategy in MetaTrader that utilizes a moving average crossover to execute trades and includes criteria to exit the trades. 
+This MQL5 code is for a trading strategy in MetaTrader that utilizes a moving average crossover to execute trades and includes criteria to exit the trades. 
 
 In plain English:
 
